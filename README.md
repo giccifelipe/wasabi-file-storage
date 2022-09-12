@@ -17,7 +17,7 @@ Console application to manipulate bucket/objects using Wasabi cloud storage: htt
 - Add unit test to the project.
 
 ## Instructions:
-Replace your wasabi keys in the appsettings.json:
+Replace your wasabi url/keys in the appsettings.json:
 ```
 {
   "Wasabi": {
