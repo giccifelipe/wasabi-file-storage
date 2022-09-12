@@ -21,10 +21,10 @@ Replace your wasabi url/keys in the appsettings.json:
 ```
 {
   "Wasabi": {
-    "URL": "**YOUR_WASABI_URL**",
+    "URL": "YOUR_WASABI_URL",
     "Credentials": {
-      "AccessKey": "**YOUR_WASABI_CLIENT_KEY**",
-      "SecretKey": "**YOUR_WASABI_SECRET_KEY**"
+      "AccessKey": "YOUR_WASABI_CLIENT_KEY",
+      "SecretKey": "YOUR_WASABI_SECRET_KEY"
     }
   }
 }
